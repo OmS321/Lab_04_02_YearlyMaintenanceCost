@@ -20,7 +20,6 @@ public class Main
 
 
         double winterMain = 250.99;
-
         System.out.println("Winter maintenance: $" + winterMain);
 
 
